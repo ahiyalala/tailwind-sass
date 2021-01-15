@@ -1,0 +1,10 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.test {
+  display: none;
+  .test-two {
+    display: block;
+  }
+}

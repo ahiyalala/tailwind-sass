@@ -1,0 +1,5 @@
+- key: 1
+  value: Contact
+  checked: progress__item--active
+- key: 2
+  value: Confirmation
