@@ -2,14 +2,3 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 @import "base";
-
-.card {
-  @apply bg-gray-800;
-  @apply py-4;
-  @apply px-4;
-
-  @screen lg {
-    @apply rounded-2xl;
-    @apply w-60;
-  }
-}
